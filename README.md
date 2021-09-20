@@ -1,7 +1,7 @@
 # mask_classification
 discriminate good masker 
 
-##requirement
+## requirement
 pip install opencv-python
 pip install matplotlib
 pip install torchvision
